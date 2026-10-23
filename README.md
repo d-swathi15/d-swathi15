@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swathi Dornala
+# 👋 Hi, I'm Dornala Swathi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
